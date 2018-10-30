@@ -1,4 +1,4 @@
-  
+TOP :
 Home Page
 News
 Local
@@ -7,6 +7,8 @@ National
 International
 Sports
 Weather 
+
+FOOTER:
 
 Classifieds
 For Sale
