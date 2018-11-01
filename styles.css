@@ -15,7 +15,8 @@
 */
 
 html {
-    background-color: wheat;
+    width: 100%;
+    background-color: rgb(238, 193, 135);
 }
 
 body {
@@ -33,12 +34,46 @@ body>header>img {
 
 }
 
-nav.horizontal li {
+nav.horizontal {
     display: table;
     width: 100%;
 
 }
 
-nav.horizontal li {
-    display: inline;
+nav.horizontal ul {
+    display: table-row;
+}
+
+nav.horizontal ul li {
+    display: table-cell;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+
+nav.horizontal a {
+    padding: 5px;
+    width: 100%;
+}
+
+body p {
+    padding: 15px;
+    text-align: center;
+}
+
+.ymom {
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+.ymom a {
+    display: block;
+    height: 100%;
+    margin-bottom: 50%;
+}
+
+.ras {
+    clear: right;
+    display: block;
+    width: 80%;
 }
