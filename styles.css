@@ -66,14 +66,12 @@ body p {
     float: left;
 }
 
-.ymom a {
-    display: block;
-    height: 100%;
-    margin-bottom: 50%;
-}
-
 .ras {
     clear: right;
     display: block;
     width: 80%;
+}
+
+footer {
+    background-color: bisque;
 }
