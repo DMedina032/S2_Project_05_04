@@ -28,6 +28,9 @@ body {
 
 }
 
+
+
+
 body>header>img {
     display: block;
     width: 100%;
@@ -64,6 +67,7 @@ body p {
     height: 100%;
     width: 20%;
     float: left;
+    margin-left: auto;
 }
 
 .ras {
